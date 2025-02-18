@@ -1,23 +1,2 @@
-=======
 Chapter1
-=======
-Setting: Late at night, 2:00 AM, an empty train station with a cold, eerie atmosphere.
-Character: Leo, a man feeling lost or aimless in life, uncertain of his direction.
-Inciting Incident: Leo notices an old train that seems out
-of place—unfamiliar, with flickering lights. He’s drawn to it
- despite having no real reason to board.
-
- Inciting Incident: Leo notices an old train that seems out
-of place—unfamiliar, with flickering lights. He’s drawn to it
- despite having no real reason to board. Test
-
- Chapter2
-Setting: Late at night, 2:00 AM, an empty train station with a cold, eerie atmosphere.
-Character: Leo, a man feeling lost or aimless in life, uncertain of his direction.
-Inciting Incident: Leo notices an old train that seems out
-of place—unfamiliar, with flickering lights. He’s drawn to it
- despite having no real reason to board.
-
- Inciting Incident: Leo notices an old train that seems out
-of place—unfamiliar, with flickering lights. He’s drawn to it
- despite having no real reason to board.
+	- We meet Nick, Tom, Daisy, and Jordan
